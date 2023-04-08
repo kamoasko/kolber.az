@@ -1,0 +1,29 @@
+.certificates {
+  margin: 6rem 0;
+}
+
+.certificate__card {
+  height: 62.5rem;
+  max-width: 41.7rem;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.certificate__image {
+  max-height: 54.6rem;
+  height: 100%;
+  box-shadow: 0 0.9rem 1rem rgba(187, 187, 187, 0.28);
+  background-color: var(--color-white);
+  border-radius: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.certificate__image img {
+  max-width: 32.5rem;
+  width: 100%;
+}

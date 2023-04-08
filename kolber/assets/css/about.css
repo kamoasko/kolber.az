@@ -1,0 +1,32 @@
+.about__image {
+  background-image: url(https://s3-alpha-sig.figma.com/img/447c/702a/c95df15d8c1dd90335acf8b4a511d4f3?Expires=1680480000&Signature=GB72HT3sggQ0v6egcvWX6kAe4rcWhSwIjmhOVXvZygaBa-PjbzgJCUis1LcrwDfR-vdm64I3XcP9nHmb5LruBoeNNDDGEahnw9OUoXbrYTKDsj~Hd34DKlse5q8OlK2pf8bqLu78E4lV9aZ1lDKnIZ7HoC6hHe2CWbqE3nrJs2XsvCwa1OH9mWvzyhUgjMS~qFdqjXeWcl847q2dQVctr6SCxVWkvhDfpNKoYg1ev3lQ3iv6~QYVaJ-jyT1lEI2X4hUCgJdOn6~4giZSWXfV5SMub9fM8UttJaxE0~L8eFTUiad2Lbr9lLhCY379DaB4wb6AAlaqJK5xyJJqcdkumQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-position: center;
+  height: 79.7rem;
+  background-size: cover;
+}
+
+.about__image-linear {
+  width: 948px;
+  height: 100%;
+
+  background: linear-gradient(
+    270deg,
+    rgba(0, 0, 0, 0.58) 3.9%,
+    rgba(217, 217, 217, 0) 111.33%
+  );
+  mix-blend-mode: multiply;
+  transform: rotate(-180deg);
+}
+
+.about {
+  max-width: 108.6rem;
+  width: 100%;
+  margin: 14rem auto;
+  line-height: 1.5;
+}
+
+.about p {
+  font-size: 2.2rem;
+
+  margin-bottom: 2rem;
+}

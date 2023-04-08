@@ -1,0 +1,30 @@
+.contact {
+  margin: 5rem 0 12.5rem;
+}
+
+.contact__location {
+  max-width: 64rem;
+  width: 100%;
+  height: 46.1rem;
+
+  background: url(https://s3-alpha-sig.figma.com/img/1e9f/6926/3e16253b422cd4143c749abb883a07e8?Expires=1680480000&Signature=nbMClHcwx2AXyfGQf5DE181xSMy3AXMH~BHIQheetQRUPE6vkIyG6fBuhXbWv1O3dlK-amZJTJhSZVtCgr67elj1GZIKwQEZDmN4wvnPnqDhl-QB4Nqjp-I3XwKdGek7OlOx-2sydxARBPa4JiU3L1kJ9~TIfv-QvhWVcQT-66BGxYjxRTV9B-VzrNRsaEaP0HxHx2o3u4ysX67gUbQyN0DHPK5dyZWuSrpUhE5dKey0D7l2M2-O8NP5m6T4fmjswbwBDseS4~CFmaYDWNH18yIc462TvzX~HL42zVeeUmyxmRwCsJX~LmBIOG2hjsl3BmLFk9MjROl2HlSAlv3L5w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  border-radius: 13px;
+  background-position: center;
+  background-size: contain;
+}
+
+.contact__info {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  font-size: 2.2rem;
+  line-height: 1.3;
+}
+
+.contact__info span {
+  display: block;
+}
+
+.container {
+  gap: 6.4rem;
+}
